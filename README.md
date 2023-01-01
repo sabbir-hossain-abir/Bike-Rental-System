@@ -75,3 +75,14 @@ We will be using basic HTML, CSS and its framework Bootstrap 5, which provides v
 
 ## Class Diagram
 <img src="Diagrams/UML class.png">
+
+## Class Diagram
+<img src="Diagrams/Activity Diagram.png">
+
+## Class Diagram
+<img src="Diagrams/Sequence Diagram.png">
+
+## Class Diagram
+<img src="Diagrams/ER Diagram.png">
+
+
