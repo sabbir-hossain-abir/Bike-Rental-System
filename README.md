@@ -89,19 +89,19 @@ We will be using basic HTML, CSS and its framework Bootstrap 5, which provides v
 # SCREEENSHOTS
 
 ##Homepage
-<img src="screencapture-localhost-3000-2022-12-31-22_18_02.png">
+<img src="Screenshots/screencapture-localhost-3000-2022-12-31-22_18_02.png">
 
 ##User Login Page
-<img src="screencapture-localhost-3000-signin-2022-12-31-22_22_47.png">
+<img src="Screenshots/screencapture-localhost-3000-signin-2022-12-31-22_22_47.png">
 
 ##User Signup Page
-<img src="screencapture-localhost-3000-signup-2022-12-31-22_21_12.png">
+<img src="Screenshots/screencapture-localhost-3000-signup-2022-12-31-22_21_12.png">
 
 ##Admin Signin
-<img src="screencapture-localhost-3000-adminsignin-2022-12-31-22_32_10.png">
+<img src="Screenshots/screencapture-localhost-3000-adminsignin-2022-12-31-22_32_10.png">
 
 ##Explore Bikes
-<img src="screencapture-localhost-3000-exploreRentBikes-2022-12-31-22_18_55.png">
+<img src="Screenshots/screencapture-localhost-3000-exploreRentBikes-2022-12-31-22_18_55.png">
 
 ##Rent Bikes
 
