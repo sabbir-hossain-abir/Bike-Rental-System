@@ -104,18 +104,25 @@ We will be using basic HTML, CSS and its framework Bootstrap 5, which provides v
 <img src="Screenshots/screencapture-localhost-3000-exploreRentBikes-2022-12-31-22_18_55.png">
 
 ## Rent Bikes
+<img src="Screenshots/screencapture-localhost-3000-rentbike-2022-12-31-22_25_41.png">
 
 ## Cart
- 
+<img src="Screenshots/screencapture-localhost-3000-rentbikecart-2022-12-31-22_27_31.png">
+
 ## Review
+<img src="Screenshots/screencapture-localhost-3000-rentbikereviews-2022-12-31-22_31_32.png">
 
 ## Admin Dashboard
+<img src="Screenshots/screencapture-localhost-3000-Dashboard-2022-12-31-22_32_45.png">
 
 ## Add Bikes
+<img src="Screenshots/screencapture-localhost-3000-addbikes-2022-12-31-22_33_14.png">
 
-## Available Bikes
+## Available Bikes for rent
+<img src="Screenshots/screencapture-localhost-3000-getrentbikesforadmin-2022-12-31-22_34_16.png">
 
 ## Icome Statements
+<img src="Screenshots/screencapture-localhost-3000-rentbikesreports-2022-12-31-22_34_29.png">
 
 ## Available Users
-
+<img src="Screenshots/screencapture-localhost-3000-availableusers-2022-12-31-22_34_39.png">
