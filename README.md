@@ -61,10 +61,10 @@ For this project we will be using React js which is a framework of JavaScript fo
 We will be using Node.js + Express.js as the backend programming language. Which provides great support in working with a full JavaScript environment.
 
 <b>Database</b><br>
-We will be using MongoDB as our Database management system. MongoDB is one of the most popular Database management systems out there right now. What makes it more versatile than another typical RDBMS is it's more reliable considering the advancement of technology. MongoDB is a database that is more advanced and capable of handling big data with dynamic schema features.
+We will be using MongoDB as our Database management system. MongoDB is one of the most popular Database management systems out there right now. What makes it more versatile than another typical RDBMS is it's more reliable considering the advancement of technology. MongoDB is a database that is more advanced and capable of handling big data with dynamic schema features. We will use Mongoose, which is a Object Data Modeling library for MongoDB and Node.js. It provides a straight-forward, schema based solution to model Application data and includes support for middleware, validations and type coercion.
 
 <b>Others</b><br>
-We will be using basic HTML, CSS and its framework Bootstrap 5, which provides various options for playing the style. We will use Redux as our state management tool.
+We will be using basic CSS and its framework Bootstrap 4, which provides various options for playing with the style. We will use Redux as our state management tool. Other than those, we have use bcrypt to hash our password, dot env to load our environment variables, Json Web Token(JWT) for authorization and authentication purpose. We have used cookie parser for parsing HTTP cookies and Multer for handling file uploads.
 
 
 
